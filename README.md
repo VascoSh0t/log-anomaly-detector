@@ -37,7 +37,7 @@ log-anomaly-detector/
 Clone the repo
 
 bash
-git clone https://github.com/your-username/log-anomaly-detector.git
+git clone https://github.com/VascoSh0t/log-anomaly-detector.git
 cd log-anomaly-detector
 Install dependencies
 
